@@ -1,27 +1,22 @@
 ---
 layout: post
-title: Encuentra todas las facturas de tus Clientes.
-subtitle: Factoring - Facturas
+title: Inicia sesión en el portal de clientes.
+subtitle: Ingresa al portal.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
-tags: [facturas, comercial, buscar, búsqueda]
+tags: [inicio sesión, Portal clientes, Registro]
 comments: false
 author: Catalina Pinilla
 ---
 
- Podrás ver el listado de las facturas de  tus Clientes en un orden predeterminado. Puedes hacer el uso de *filtros* los cuales serán: Clientes, Ejecutivos, Rango de fecha y Folio, esto dependiendo de como  necesites enfocar tu búsqueda, mientras más datos ingreses, más precisos serán los resultados reflejados.
- 
- Si necesitas eliminar tus selecciones puedes limpiar los filtros que aplicaste en *Limpiar filtros*.
+ Ingresa a nuestro portal con tu correo electrónico y contraseña.
 
+![portal_clientes](https://cdn.capitalexpress.cl/client-img/portal_clientes.png)
 
- *aquí un ejemplo*
+Si no tienes una cuenta puedes crearla en el botón `Regístrate` y completa los pasos para ingresar tu correo y contraseña. Es importante que utilices un correo válido para recibir el código de verificación.
 
-<p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/filtrofactura3.png" alt="limpiarfiltro">
-</p>
+![registro_portal](https://cdn.capitalexpress.cl/client-img/registro_portal.png)
 
-*Aquí te dejamos un vídeo explicando lo mencionado* 
+En caso que olvides tú contraseña, puedes recuperarla en cualquier momento haciendo click en el botón `¿Olvidaste tú contraseña`, sigue los pasos y recuperarás tú clave de acceso.
 
-<video width="100%"  controls>
-  <source src="https://cdn.capitalexpress.cl/video/MódulodeFacturas.mp4" type="video/mp4">
-</video>
+![recuperacion_contraseña_portal](https://cdn.capitalexpress.cl/client-img/recuperacion_contraseña_portal.png)
